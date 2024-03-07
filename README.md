@@ -13,8 +13,8 @@ This project serves as a comprehensive guide to building an end-to-end data engi
 
 ## System Architecture
 
-!My Image
-Data engineering architecture.png
+![Data Engineering Architecture](Data%20engineering%20architecture.png)
+
 
 
 The project is designed with the following components:
